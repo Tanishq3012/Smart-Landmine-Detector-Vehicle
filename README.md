@@ -28,19 +28,6 @@ The Smart Landmine Detector Vehicle is an automated system that utilizes sensors
 
 ---
 
-## 🗂️ **Repository Structure**
-
-```
-Smart-Landmine-Detector-Vehicle/
-├── Code/                 # Source code for the microcontroller
-├── Hardware/             # Circuit diagrams and hardware details
-├── Images/               # Photos and diagrams of the project
-├── Documentation/        # Project reports and presentations
-└── README.md             # Project description (this file)
-```
-
----
-
 ## 📋 **Setup Instructions**
 
 1. **Clone the Repository**
